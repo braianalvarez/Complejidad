@@ -1,0 +1,5 @@
+C:\Users\Braian\Documents\SharpDevelop Projects\Clase I complijidad\Clase I complijidad\obj\Debug\Clase I complijidad.csprojResolveAssemblyReference.cache
+C:\Users\Braian\Documents\SharpDevelop Projects\Clase I complijidad\Clase I complijidad\bin\Debug\Clase I complijidad.exe
+C:\Users\Braian\Documents\SharpDevelop Projects\Clase I complijidad\Clase I complijidad\bin\Debug\Clase I complijidad.pdb
+C:\Users\Braian\Documents\SharpDevelop Projects\Clase I complijidad\Clase I complijidad\obj\Debug\Clase I complijidad.exe
+C:\Users\Braian\Documents\SharpDevelop Projects\Clase I complijidad\Clase I complijidad\obj\Debug\Clase I complijidad.pdb
